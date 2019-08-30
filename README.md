@@ -11,9 +11,10 @@
 1. Name box "*should refuse numbers*".
 2. Mail box "*should check for @example.com*"
 3. Phone No. box "*should check the length and refuse any character*"
-4. first preference 
-5. second preference 
+4. first preference *"Dropbox have 4 elements"*
+5. second preference *"Dropbox have 4 elements as previous"*
 6. submit button "*if any previous box wasn't filled, this button should be disabled*"
 
 ##Note:-
 * >This should be done using Bootstrap and JQuery.
+*
